@@ -1,7 +1,11 @@
 h1{
     font-size: 100px;
-    color:  orange
+    color:  aqua;
 }
 body{
+    height: 100vh;
     background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
